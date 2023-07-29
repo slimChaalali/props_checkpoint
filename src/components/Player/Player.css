@@ -1,0 +1,13 @@
+
+.cardImg{
+    height:40%;
+}
+.cardBox{
+    height:500px;
+   
+  }
+  .cardBox:hover{
+    transform: scale(1.1);
+    box-shadow: 6px 6px 24px rgb(242, 242, 242);
+    cursor: pointer;
+  }
